@@ -1,5 +1,0 @@
-Hello
-I am an engineering student
-My name is oshin
-Semester 5
-I am learning pythonMy batch name is offline2 
